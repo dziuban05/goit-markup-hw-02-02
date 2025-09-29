@@ -85,6 +85,9 @@ color: #2e2f42;
     cursor: pointer;
 }
 
+.hero-btn:hover {
+    background: #404bbf;
+}
 /* -----ADVANTAGES ----- */
 
 .advantages {}
